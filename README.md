@@ -1,0 +1,2 @@
+# ScalaMysqlCdcParser
+ScalaMysqlCdcParser
